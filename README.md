@@ -1,5 +1,13 @@
 # Customer Slip Generator
 
+![Build](https://github.com/SagarBiswas-MultiHAT/CustomerSlip-CLI/actions/workflows/cmake.yml/badge.svg) 
+&nbsp;
+![C++](https://img.shields.io/badge/c%2B%2B-C%2B%2B17-blue) 
+&nbsp;
+![Tests](https://github.com/SagarBiswas-MultiHAT/CustomerSlip-CLI/actions/workflows/cmake.yml/badge.svg) ![License](https://img.shields.io/badge/license-MIT-green) 
+&nbsp;
+![Last commit](https://img.shields.io/github/last-commit/SagarBiswas-MultiHAT/CustomerSlip-CLI)
+
 Customer Slip Generator is a small, production-quality C++17 CLI that captures customer details, calculates totals, prints a clean slip, and persists records to CSV and JSONL with atomic writes for safe, durable storage.
 
 ## Requirements
