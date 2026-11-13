@@ -1,11 +1,9 @@
 # Customer Slip Generator
 
+[![Sponsor SagarBiswas-MultiHAT on Polar.sh](https://img.shields.io/badge/Sponsor-Polar.sh-0062FF?style=for-the-badge&logo=githubsponsors&logoColor=white)](https://buy.polar.sh/polar_cl_I7DT5UQNUs1Qjb4VrFYOiRA2nkb3RVVUJCnjr3o5SGK)<br>
 ![Build](https://github.com/SagarBiswas-MultiHAT/CustomerSlip-CLI/actions/workflows/cmake.yml/badge.svg) 
-&nbsp;
 ![C++](https://img.shields.io/badge/c%2B%2B-C%2B%2B17-blue) 
-&nbsp;
 ![Tests](https://github.com/SagarBiswas-MultiHAT/CustomerSlip-CLI/actions/workflows/cmake.yml/badge.svg) ![License](https://img.shields.io/badge/license-MIT-green) 
-&nbsp;
 ![Last commit](https://img.shields.io/github/last-commit/SagarBiswas-MultiHAT/CustomerSlip-CLI)
 
 Customer Slip Generator is a small, production-quality C++17 CLI that captures customer details, calculates totals, prints a clean slip, and persists records to CSV and JSONL with atomic writes for safe, durable storage.
@@ -98,6 +96,14 @@ ctest --test-dir build --output-on-failure
 ```
 
 A green test run indicates core formatting and parsing logic is correct.
+
+## Support MultiHAT Open-Source
+
+If you find this project useful in your workflow, development, or security research, consider supporting **SagarBiswas-MultiHAT** in its ongoing maintenance and future updates (supports both One-Time and Monthly backing):
+
+[![Support on Polar.sh](https://img.shields.io/badge/Support%20on-Polar.sh-0062FF?style=for-the-badge&logo=githubsponsors&logoColor=white)](https://buy.polar.sh/polar_cl_I7DT5UQNUs1Qjb4VrFYOiRA2nkb3RVVUJCnjr3o5SGK)
+[![Portfolio](https://img.shields.io/badge/Portfolio-sagarbiswas.multihat.dev-2563EB?style=for-the-badge&logo=todoist&logoColor=white)](https://sagarbiswas.multihat.dev/)
+[![Agency](https://img.shields.io/badge/Agency-multihat.dev-111827?style=for-the-badge&logo=vercel&logoColor=white)](https://multihat.dev)
 
 ## Contributing
 
